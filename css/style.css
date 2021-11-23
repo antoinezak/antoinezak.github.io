@@ -23,7 +23,7 @@ body {
   font-size: 14px;
   line-height: 1.7;
   color: #0d273f;
-  background: rgba(223, 223, 223, 0.664);
+  background: rgb(245, 252, 255);
   /* START white border*/
   border-left: 20px solid rgba(83, 178, 218, 0.342);
   border-right: 20px solid rgba(83, 178, 218, 0.342);
