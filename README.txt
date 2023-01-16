@@ -34,6 +34,4 @@ http://flexslider.woothemes.com/
 Sticky Kit
 http://leafo.net/sticky-kit/
 
-Demo Images:
-http://unsplash.com
 
